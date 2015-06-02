@@ -1,2 +1,0 @@
-/usr/bin/ar cq ../lib/libcurlcpp.a  CMakeFiles/curlcpp.dir/curl_easy.cpp.o CMakeFiles/curlcpp.dir/curl_header.cpp.o CMakeFiles/curlcpp.dir/curl_form.cpp.o CMakeFiles/curlcpp.dir/curl_multi.cpp.o CMakeFiles/curlcpp.dir/curl_share.cpp.o CMakeFiles/curlcpp.dir/curl_info.cpp.o CMakeFiles/curlcpp.dir/curl_exception.cpp.o CMakeFiles/curlcpp.dir/curl_writer.cpp.o
-/usr/bin/ranlib ../lib/libcurlcpp.a

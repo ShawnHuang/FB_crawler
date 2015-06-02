@@ -1,3 +1,0 @@
-/home/shawn/fb_crawler/build/src/CMakeFiles/json11.dir
-/home/shawn/fb_crawler/build/src/CMakeFiles/main.dir
-/home/shawn/fb_crawler/build/curlcpp/src/CMakeFiles/curlcpp.dir

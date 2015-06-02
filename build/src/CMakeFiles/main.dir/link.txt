@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11   CMakeFiles/main.dir/easy.cpp.o CMakeFiles/main.dir/json11.cpp.o  -o ../bin/main  -L/home/shawn/fb_crawler/lib -rdynamic -lcurl ../curlcpp/lib/libcurlcpp.a -lmongocxx -lbsoncxx /usr/local/lib/libcurl.so -Wl,-rpath,/home/shawn/fb_crawler/lib:/usr/local/lib 
