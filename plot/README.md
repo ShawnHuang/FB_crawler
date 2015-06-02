@@ -8,13 +8,13 @@ Plot with matplotlib
 		+ libreadline-dev
 		+ libbz2-dev
 		+ libssl-dev
+	- pip
 
 ```bash
 env PYTHON_CONFIGURE_OPTS="--enable-shared" pyenv install 3.4.3
 pyenv virtualenv 3.4.3 name34
 pyenv local name34
 ```
-		+ pip
 
 ```bash
 pip install package-name
